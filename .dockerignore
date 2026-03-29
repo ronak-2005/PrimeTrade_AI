@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+data/raw/
+outputs/
+charts/
+.git/
+.github/
+*.zip
