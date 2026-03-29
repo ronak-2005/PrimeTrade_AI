@@ -1,0 +1,4 @@
+Model,Test Acc,ROC-AUC,CV ROC-AUC
+Logistic Regression,0.8889,0.625,
+Random Forest,0.8889,0.625,
+Gradient Boosting,0.8889,0.5625,
